@@ -60,8 +60,8 @@ SATS/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/smart-alumni-tracking-system.git
-cd smart-alumni-tracking-system
+[git clone https://github.com/yourusername/smart-alumni-tracking-system.git
+cd smart-alumni-tracking-system](https://github.com/P4RTH4-ROY/Smart-Alumni-Tracking-System.git)
 ````
 
 ### 2. Setup Backend
