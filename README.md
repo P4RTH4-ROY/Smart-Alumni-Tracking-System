@@ -1,7 +1,3 @@
-Here’s a clean and professional `README.md` file for your **Smart Alumni Tracking System** GitHub repository:
-
----
-
 ```markdown
 # 🎓 Smart Alumni Tracking System (SATS)
 
