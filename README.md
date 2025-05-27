@@ -1,4 +1,3 @@
-```markdown
 # 🎓 Smart Alumni Tracking System (SATS)
 
 A full-stack MERN application designed to help universities and colleges track their alumni efficiently. Users can register, update, and manage alumni records including department, batch, contact info, current position, and LinkedIn profile.
