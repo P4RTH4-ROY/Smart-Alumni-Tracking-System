@@ -60,8 +60,7 @@ SATS/
 ### 1. Clone the repository
 
 ```bash
-[git clone https://github.com/yourusername/smart-alumni-tracking-system.git
-cd smart-alumni-tracking-system](https://github.com/P4RTH4-ROY/Smart-Alumni-Tracking-System.git)
+https://github.com/P4RTH4-ROY/Smart-Alumni-Tracking-System.git
 ````
 
 ### 2. Setup Backend
@@ -81,19 +80,6 @@ cd ../client
 npm install
 npm run dev
 ```
-
----
-
-## 🔐 Environment Variables
-
-For production, consider using `.env`:
-
-```env
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
-```
-
----
 
 ## 📃 API Endpoints
 
